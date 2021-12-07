@@ -1,4 +1,11 @@
-### Hi there 👋
+### (▀̿Ĺ̯▀̿ ̿)
+
+Full-Stack Web Developer from Ukraine. I'm living in Tokyo now.  
+Send me a message if you have any projects in mind OR you want to write some beatiful code together OR just meet for a coffee. ☕
+
+<hr>
+LinkedIn: linkedin.com/in/moahtdeep/
+<hr>
 
 <!--
 **cyahtzee/cyahtzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
