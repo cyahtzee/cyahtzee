@@ -1,4 +1,4 @@
-### (▀̿Ĺ̯▀̿ ̿)
+(▀̿Ĺ̯▀̿ ̿)
 
 Full-Stack Web Developer from Ukraine. I'm living in Tokyo now.  
 Send me a message if you have any projects in mind OR you want to write some beatiful code together OR just meet for a coffee. ☕
