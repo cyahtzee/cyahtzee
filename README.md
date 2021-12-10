@@ -1,4 +1,4 @@
-<h3 align="center">I'm a passionate Full-Stack Web Developer from Ukraine. I'm living in Tokyo now. Send me a message if you want to discuss interesting projects or meet for a coffee.</h3>
+<h3 align="center">I'm a passionate Full-Stack Web Developer from Ukraine. I'm living in Tokyo now. Send me a message if you want to work on a project together or meet for a coffee.</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/33479806/145542856-0f94a90e-6e37-4eaa-81b6-669176ff103e.gif">
 
