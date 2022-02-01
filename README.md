@@ -2,7 +2,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/33479806/145542856-0f94a90e-6e37-4eaa-81b6-669176ff103e.gif">
 
-- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
